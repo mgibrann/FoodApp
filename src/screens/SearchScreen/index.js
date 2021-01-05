@@ -14,8 +14,6 @@ const SearchScreen = () => {
     });
   };
 
-  console.log(results);
-
   return (
     <View style={styles.page}>
       <SearchBar
